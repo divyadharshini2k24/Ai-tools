@@ -1,0 +1,9 @@
+Prompt:
+
+"Summarize the given article in two ways:
+
+* Basic Prompt: Give a short and simple summary of the article.
+
+* Detailed Prompt: Give a clear and detailed summary covering all important points.
+
+Compare both summaries based on length, clarity, and level of detail. Present the comparison in a table."
