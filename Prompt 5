@@ -1,0 +1,3 @@
+Prompt:
+
+"Act as a faculty scheduler and prepare a weekly college timetable. Ensure that there are no timetable clashes when one teacher handles two different classes. Avoid assigning the same teacher to two classes at the same time. Present the timetable in a clear table format with days, time slots, subjects, and faculty names."
